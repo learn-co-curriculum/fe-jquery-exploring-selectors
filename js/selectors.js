@@ -17,7 +17,7 @@ $(document).ready(function(){
   // 4.) Select the image of the cat that has the alt text equal to "cat sleeping"
   $('img[alt="cat sleeping"]').addClass('pinky');
 
-  // 5.) selects only checked checkbox inuts and wraps them with a span that has the class of pinky using the wrap method.
+  // 5.) select only checked checkbox inputs and wrap them with a span that has the class of pinky using the wrap method.
   $(":checked").wrap('<span class="pinky">');
 
 
