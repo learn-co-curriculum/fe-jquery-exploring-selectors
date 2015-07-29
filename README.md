@@ -1,9 +1,4 @@
----
-languages: javascript, html, css
-tags: jQuery, selectors, beginner
-type: lab, challenege
-resources: 5
----
+
 
 # Code Challenge - Exploring jQuery Selectors
 
