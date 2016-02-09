@@ -11,10 +11,10 @@ $(document).ready(function(){
   // 2.) Select all <li> inside of <ol> only and apply the class of pinky using addClass method.
   
 
-  // 3.) Select the <a> that is inside of the element that has both an id of box4 and a class of box5
+  // 3.) Select the <a> that is inside of the element that has both an id of box4 and a class of box5 and add the class of pinky using the addClass method.
   
 
-  // 4.) Select the image of the cat that has the alt text equal to "cat sleeping"
+  // 4.) Select the image of the cat that has the alt text equal to "cat sleeping" and add the class of pinky using the addClass method.
   
 
   // 5.) select only checked checkbox inputs and wrap them with a span that has the class of pinky using the wrap method.
